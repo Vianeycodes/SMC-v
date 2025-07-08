@@ -1,8 +1,8 @@
-setuptools>=42
+setuptools>=65
 wheel
 build
 
-setuptools>=65
+
 
 
 
